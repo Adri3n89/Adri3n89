@@ -8,7 +8,6 @@
   Vous trouverez ici l’ensemble des Repository de ma formation et quelques test et projets réalisés par ci par la.</br> 
   Tous mes projets sont ouverts et visible afin de pouvoir aider d’autres personnes et de pouvoir collaborer avec les gens qui le souhaitent.
 </p>  
-![image](https://user-images.githubusercontent.com/79156043/144751112-8c4c7fa4-bef0-4411-b576-37b7ce2217d5.png)
 
 ![Linepau GitHub stats](https://github-readme-stats.vercel.app/api?username=Adri3n89&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adri3n89&layout=compact&theme=radical)](https://github.com/Adri3n89/github-readme-stats)
