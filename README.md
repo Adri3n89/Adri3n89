@@ -5,8 +5,8 @@
 <p>
   Je suis Adrien, jeune homme motivé qui se lance le défi de se reconvertir dans le développement iOS.</br>  
   En formation de Mars 2021 à Mars 2022 pour obtenir le diplôme de Concepteur, développeur d’application iOS.</br>  
-  Vous trouverez ici l’ensemble des Repository de ma formation et quelques test et projets réalisés par ci par la.</br> 
-  Tous mes projets sont ouverts et visible afin de pouvoir aider d’autres personnes et de pouvoir collaborer avec les gens qui le souhaitent.
+  Tu trouvera ici l’ensemble des Repository de ma formation et quelques tests et projets réalisés par ci par la.</br> 
+  Tous mes projets sont ouverts et visibles afin de pouvoir aider d’autres personnes et de pouvoir collaborer avec les gens qui le souhaitent.
 </p>  
 
 ![Linepau GitHub stats](https://github-readme-stats.vercel.app/api?username=Adri3n89&show_icons=true&theme=radical)
